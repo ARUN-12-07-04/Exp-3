@@ -88,7 +88,7 @@ Pandas.
         y_test, y_pred, target_names=data.target_names
     ))
     
-    ## output
+ ## output
     Accuracy: 0.9824561403508771
     
     Confusion Matrix:
@@ -107,5 +107,5 @@ Pandas.
     weighted avg     0.99     0.99     0.99      114
     
     
-    ## Result
+ ## Result
     Thus, Logistic Regression was successfully implemented using Python. The dataset was divided into training and testing sets, standardized, and evaluated using accuracy, confusion matrix and classification report. The model achieved 98.25% accuracy.
